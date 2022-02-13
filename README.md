@@ -3,6 +3,7 @@
 [![GPL](https://img.shields.io/badge/GPL-V3.0-red.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 [![Termux](https://img.shields.io/badge/Termux-Android-brightgreen.svg)](https://termux.com/)
 ![platform](https://img.shields.io/badge/Platform-Linux%7CMacOS%7CWindows-brightgreen.svg)
+![alt text](https://github.com/Kini-Noro/Brute/blob/main/.github/photo.PNG?raw=true)
 ## install :
 ```bash
 sudo apt install python3 python3-pip
