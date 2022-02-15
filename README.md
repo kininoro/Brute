@@ -4,7 +4,7 @@
 [![Termux](https://img.shields.io/badge/Termux-Android-brightgreen.svg)](https://termux.com/)
 ![platform](https://img.shields.io/badge/Platform-Linux%7CMacOS%7CWindows-brightgreen.svg)
 ![alt text](https://github.com/Kini-Noro/Brute/blob/main/.github/photo.PNG?raw=true)
-## install :
+## Установка :
 ```bash
 sudo apt install python3 python3-pip
 
@@ -14,7 +14,7 @@ pip3 install mechanize
 ```
 
 
-# Usage:
+# Использование:
 
 ## Брутфорс Gmail
 ```bash
